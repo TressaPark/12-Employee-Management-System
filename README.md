@@ -42,7 +42,7 @@ This is app is complete.
 
 ### Screenshots
 
-![Screenshot 1](/assets/Screen-Shot-1)
+![Screenshot 1](/assets/Screen-Shot-1.png)
 
 
 ### License
