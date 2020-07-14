@@ -39,12 +39,13 @@ This was built using Inquirer, MySQL, and Node.
 
 ### Build Status
 
-This is app is complete. Please visit (https://morning-spire-80921.herokuapp.com/) to enjoy my deployed app.
+This is app is complete.
 
-### Credits
+### Screenshots
 
-* Tressa Park, Northwestern University
-* Fellow students at NU for their input.
+https://user-images.githubusercontent.com/60233280/87367392-733a4980-c540-11ea-8b4a-c8a65dca787b.png
+
+
 
 ### License
 ![Image of Badge](https://img.shields.io/badge/CMS-Northwestern%20University-brightgreen)
