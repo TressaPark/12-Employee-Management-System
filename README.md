@@ -1,5 +1,4 @@
-# 12 MySQL: Employee Management System 
-(https://img.shields.io/badge/Employee%20Management%20System-1.0.0-lightgrey)
+# 12 MySQL: Employee Management System
 
 ## Table of Contents
 
