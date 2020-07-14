@@ -42,9 +42,9 @@ This is app is complete.
 
 ### Screenshots
 
-https://user-images.githubusercontent.com/60233280/87367392-733a4980-c540-11ea-8b4a-c8a65dca787b.png
+https://www.markdownguide.org/basic-syntax/#linking-images
+https://imgur.com/AJXibFQ
 
-https://user-images.githubusercontent.com/60233280/87367949-f7410100-c541-11ea-89c5-b04824898a6d.png
 
 
 
