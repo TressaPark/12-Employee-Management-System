@@ -43,9 +43,9 @@ This is app is complete.
 
 ### Screenshots
 
-src="https://user-images.githubusercontent.com/60233280/87367392-733a4980-c540-11ea-8b4a-c8a65dca787b.png"
+https://user-images.githubusercontent.com/60233280/87367392-733a4980-c540-11ea-8b4a-c8a65dca787b.png
 
-src="https://user-images.githubusercontent.com/60233280/87367949-f7410100-c541-11ea-89c5-b04824898a6d.png"
+https://user-images.githubusercontent.com/60233280/87367949-f7410100-c541-11ea-89c5-b04824898a6d.png
 
 ### License
 ![Image of Badge](https://img.shields.io/badge/CMS-Northwestern%20University-brightgreen)
